@@ -1,5 +1,5 @@
 {
-  "name": "telegram-ui",
+  "name": "@telegram-apps/telegram-ui",
   "version": "2.1.5",
   "description": "World-class, ultimate UI developer toolkit.",
   "main": "dist/cjs/index.js",
